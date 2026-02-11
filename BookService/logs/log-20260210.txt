@@ -1,0 +1,140 @@
+2026-02-10 19:30:08.962 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-10 19:30:09.549 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-10 19:30:09.552 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-10 19:30:09.709 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-10 19:30:09.713 +05:30 [INF] Hosting environment: Development
+2026-02-10 19:30:09.715 +05:30 [INF] Content root path: D:\TestOroject_DEMO - 1\LibraryBookReservationSystem\BookService
+2026-02-10 19:30:11.857 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-10 19:30:13.354 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1504.6441ms
+2026-02-10 19:30:18.955 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-10 19:30:19.060 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 104.4771ms
+2026-02-10 19:30:19.073 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-10 19:30:19.075 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-10 19:30:19.088 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 14.8904ms
+2026-02-10 19:30:19.175 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 101.4984ms
+2026-02-10 19:30:19.277 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-10 19:30:19.299 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 21.8198ms
+2026-02-10 20:18:56.544 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-10 20:18:57.022 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-10 20:18:57.025 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-10 20:18:57.214 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-10 20:18:57.216 +05:30 [INF] Hosting environment: Development
+2026-02-10 20:18:57.217 +05:30 [INF] Content root path: D:\TestOroject_DEMO - 1\LibraryBookReservationSystem\BookService
+2026-02-10 20:18:58.398 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-10 20:18:59.803 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1409.7376ms
+2026-02-10 20:19:07.616 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-10 20:19:07.933 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-10 20:19:07.937 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-10 20:19:08.081 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-10 20:19:08.084 +05:30 [INF] Hosting environment: Development
+2026-02-10 20:19:08.087 +05:30 [INF] Content root path: D:\TestOroject_DEMO - 1\LibraryBookReservationSystem\BookService
+2026-02-10 20:19:09.327 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-10 20:19:09.633 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 311.1396ms
+2026-02-10 20:19:25.043 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-10 20:19:25.178 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-10 20:19:25.178 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-10 20:19:25.178 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 134.3966ms
+2026-02-10 20:19:25.198 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 15.8378ms
+2026-02-10 20:19:25.274 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.6573ms
+2026-02-10 20:19:25.442 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-10 20:19:25.462 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 20.0391ms
+2026-02-10 20:24:02.557 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 83
+2026-02-10 20:24:03.446 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:24:03.503 +05:30 [INF] Route matched with {action = "AddBook", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddBook(BookService.DTOs.AddBookRequest) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 20:24:03.518 +05:30 [INF] Executed action BookService.Controllers.BooksController.AddBook (BookService) in 5.2211ms
+2026-02-10 20:24:03.527 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:24:03.611 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 83 - 500 - application/json 1054.6404ms
+2026-02-10 20:24:55.376 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 83
+2026-02-10 20:24:55.398 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:24:55.400 +05:30 [INF] Route matched with {action = "AddBook", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddBook(BookService.DTOs.AddBookRequest) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 20:24:55.405 +05:30 [INF] Executed action BookService.Controllers.BooksController.AddBook (BookService) in 0.9814ms
+2026-02-10 20:24:55.407 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:24:55.439 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 83 - 500 - application/json 63.5591ms
+2026-02-10 20:34:50.857 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-10 20:34:51.396 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-10 20:34:51.398 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-10 20:34:51.555 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-10 20:34:51.557 +05:30 [INF] Hosting environment: Development
+2026-02-10 20:34:51.558 +05:30 [INF] Content root path: D:\TestOroject_DEMO - 1\LibraryBookReservationSystem\BookService
+2026-02-10 20:34:52.603 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-10 20:34:54.495 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1894.9810ms
+2026-02-10 20:35:38.868 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-10 20:35:39.058 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-10 20:35:39.095 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-10 20:35:39.097 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 229.4190ms
+2026-02-10 20:35:39.113 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 54.1918ms
+2026-02-10 20:35:39.173 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.7228ms
+2026-02-10 20:35:39.227 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-10 20:35:39.246 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 19.2109ms
+2026-02-10 20:39:52.108 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 83
+2026-02-10 20:39:52.739 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:39:52.781 +05:30 [INF] Route matched with {action = "AddBook", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddBook(BookService.DTOs.AddBookRequest) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 20:40:01.680 +05:30 [INF] Saved 1 entities to in-memory store.
+2026-02-10 20:40:01.706 +05:30 [INF] Executing OkObjectResult, writing value of type 'BookService.DTOs.BookResponse'.
+2026-02-10 20:40:01.716 +05:30 [INF] Executed action BookService.Controllers.BooksController.AddBook (BookService) in 8928.2356ms
+2026-02-10 20:40:01.720 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 20:40:01.725 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 83 - 200 - application/json;+charset=utf-8 9617.5899ms
+2026-02-10 20:44:48.554 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1 - -
+2026-02-10 20:44:48.576 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 20:44:48.589 +05:30 [INF] Route matched with {action = "Search", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Search(System.String, System.String, Int32) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 20:45:09.673 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookService.DTOs.BookResponse, BookService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-10 20:45:09.679 +05:30 [INF] Executed action BookService.Controllers.BooksController.Search (BookService) in 21087.3575ms
+2026-02-10 20:45:09.689 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 20:45:09.690 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1 - - - 200 - application/json;+charset=utf-8 21135.9737ms
+2026-02-10 22:34:18.208 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-10 22:34:18.693 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-10 22:34:18.695 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-10 22:34:18.851 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-10 22:34:18.853 +05:30 [INF] Hosting environment: Development
+2026-02-10 22:34:18.855 +05:30 [INF] Content root path: D:\TestOroject_DEMO - 1\LibraryBookReservationSystem\BookService
+2026-02-10 22:34:20.264 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-10 22:34:22.096 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1838.2258ms
+2026-02-10 22:34:39.165 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-10 22:34:39.314 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 148.6997ms
+2026-02-10 22:34:39.321 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-10 22:34:39.337 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-10 22:34:39.358 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 36.7813ms
+2026-02-10 22:34:39.435 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.1380ms
+2026-02-10 22:34:39.482 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-10 22:34:39.497 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.9355ms
+2026-02-10 22:35:24.316 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - -
+2026-02-10 22:35:24.363 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2026-02-10 22:35:24.374 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-10 22:35:24.376 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - - - 401 0 - 66.4488ms
+2026-02-10 22:39:10.561 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - -
+2026-02-10 22:39:11.117 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:39:11.158 +05:30 [INF] Route matched with {action = "Search", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Search(System.String, System.String, Int32, Int32) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 22:39:29.468 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookService.DTOs.BookResponse, BookService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-10 22:39:29.481 +05:30 [INF] Executed action BookService.Controllers.BooksController.Search (BookService) in 18314.1347ms
+2026-02-10 22:39:29.486 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:39:45.731 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - - - 200 - application/json;+charset=utf-8 35171.1428ms
+2026-02-10 22:42:10.243 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - -
+2026-02-10 22:42:10.261 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:42:10.263 +05:30 [INF] Route matched with {action = "Search", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Search(System.String, System.String, Int32, Int32) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 22:43:15.436 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookService.DTOs.BookResponse, BookService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-10 22:43:15.439 +05:30 [INF] Executed action BookService.Controllers.BooksController.Search (BookService) in 65172.0194ms
+2026-02-10 22:43:15.452 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:43:15.454 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=hu&genre=g&page=1&pagesize=10 - - - 200 - application/json;+charset=utf-8 65211.1338ms
+2026-02-10 22:44:22.705 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1&pagesize=10 - -
+2026-02-10 22:44:22.721 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:44:22.724 +05:30 [INF] Route matched with {action = "Search", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Search(System.String, System.String, Int32, Int32) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 22:44:26.817 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookService.DTOs.BookResponse, BookService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-10 22:44:26.820 +05:30 [INF] Executed action BookService.Controllers.BooksController.Search (BookService) in 4092.5072ms
+2026-02-10 22:44:26.822 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:44:26.825 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1&pagesize=10 - - - 200 - application/json;+charset=utf-8 4121.3660ms
+2026-02-10 22:48:07.268 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 83
+2026-02-10 22:48:07.283 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 22:48:07.292 +05:30 [INF] Route matched with {action = "AddBook", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddBook(BookService.DTOs.AddBookRequest) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 22:48:10.142 +05:30 [INF] Saved 1 entities to in-memory store.
+2026-02-10 22:48:10.153 +05:30 [INF] Executing OkObjectResult, writing value of type 'BookService.DTOs.BookResponse'.
+2026-02-10 22:48:10.156 +05:30 [INF] Executed action BookService.Controllers.BooksController.AddBook (BookService) in 2861.5173ms
+2026-02-10 22:48:10.159 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.AddBook (BookService)'
+2026-02-10 22:48:10.160 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 83 - 200 - application/json;+charset=utf-8 2892.4472ms
+2026-02-10 22:48:27.683 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1&pagesize=10 - -
+2026-02-10 22:48:27.686 +05:30 [INF] Executing endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:48:27.689 +05:30 [INF] Route matched with {action = "Search", controller = "Books"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Search(System.String, System.String, Int32, Int32) on controller BookService.Controllers.BooksController (BookService).
+2026-02-10 22:48:36.901 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[BookService.DTOs.BookResponse, BookService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-10 22:48:36.905 +05:30 [INF] Executed action BookService.Controllers.BooksController.Search (BookService) in 9211.8767ms
+2026-02-10 22:48:36.907 +05:30 [INF] Executed endpoint 'BookService.Controllers.BooksController.Search (BookService)'
+2026-02-10 22:48:36.909 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/api/books/search?author=Martin&genre=Programming&page=1&pagesize=10 - - - 200 - application/json;+charset=utf-8 9225.9738ms

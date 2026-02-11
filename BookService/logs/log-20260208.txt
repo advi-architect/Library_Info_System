@@ -1,0 +1,67 @@
+2026-02-08 12:00:39.069 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-08 12:00:39.747 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-08 12:00:39.750 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-08 12:00:39.951 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-08 12:00:39.953 +05:30 [INF] Hosting environment: Development
+2026-02-08 12:00:39.956 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-08 12:00:41.382 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-08 12:00:42.923 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1546.6258ms
+2026-02-08 13:13:41.361 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-08 13:13:42.070 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-08 13:13:42.074 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-08 13:13:42.238 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-08 13:13:42.241 +05:30 [INF] Hosting environment: Development
+2026-02-08 13:13:42.243 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-08 13:13:44.007 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-08 13:13:45.826 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1824.7398ms
+2026-02-08 13:14:04.485 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger - -
+2026-02-08 13:14:04.499 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger - - - 301 - - 13.9218ms
+2026-02-08 13:14:04.514 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-08 13:14:04.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui.css - -
+2026-02-08 13:14:04.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui-bundle.js - -
+2026-02-08 13:14:04.656 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui-standalone-preset.js - -
+2026-02-08 13:14:04.665 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-08 13:14:04.678 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-08 13:14:04.680 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 166.7362ms
+2026-02-08 13:14:04.695 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 16.1334ms
+2026-02-08 13:14:04.730 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-02-08 13:14:04.730 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-02-08 13:14:04.735 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui.css - - - 200 144929 text/css 78.7580ms
+2026-02-08 13:14:04.737 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 81.1653ms
+2026-02-08 13:14:04.760 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-02-08 13:14:04.765 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 107.8018ms
+2026-02-08 13:14:04.790 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 124.9342ms
+2026-02-08 13:14:04.967 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-08 13:14:04.979 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 12.0857ms
+2026-02-08 19:39:54.088 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-08 19:39:54.691 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-08 19:39:54.694 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-08 19:39:54.832 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-08 19:39:54.834 +05:30 [INF] Hosting environment: Development
+2026-02-08 19:39:54.835 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-08 19:39:56.214 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-08 19:39:58.170 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1959.7449ms
+2026-02-08 19:40:53.293 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-08 19:40:53.417 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-08 19:40:53.420 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-08 19:40:53.432 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 133.4016ms
+2026-02-08 19:40:53.481 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 61.1196ms
+2026-02-08 19:40:53.512 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.2527ms
+2026-02-08 19:40:53.607 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-08 19:40:53.618 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 11.8022ms
+2026-02-08 19:52:19.148 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-08 19:52:19.705 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-08 19:52:19.708 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-08 19:52:19.876 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-08 19:52:19.878 +05:30 [INF] Hosting environment: Development
+2026-02-08 19:52:19.880 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-08 19:52:21.315 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-08 19:52:22.660 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1347.2953ms
+2026-02-08 20:16:23.169 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-08 20:16:24.169 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-08 20:16:24.173 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-08 20:16:24.520 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-08 20:16:24.535 +05:30 [INF] Hosting environment: Development
+2026-02-08 20:16:24.543 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-08 20:16:27.344 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-08 20:16:29.925 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 2587.8179ms

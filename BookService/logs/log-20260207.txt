@@ -1,0 +1,186 @@
+2026-02-07 10:19:30.482 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-07 10:19:31.390 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-07 10:19:31.393 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-07 10:19:31.650 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-07 10:19:31.653 +05:30 [INF] Hosting environment: Development
+2026-02-07 10:19:31.655 +05:30 [INF] Content root path: C:\Users\Vaniadvika\Desktop\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-07 10:19:34.207 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-07 10:19:34.751 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 550.3135ms
+2026-02-07 10:22:32.708 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-07 10:22:33.283 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-07 10:22:33.287 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-07 10:22:33.508 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-07 10:22:33.524 +05:30 [INF] Hosting environment: Development
+2026-02-07 10:22:33.526 +05:30 [INF] Content root path: C:\Users\Vaniadvika\Desktop\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-07 10:22:34.939 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-07 10:22:35.437 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 501.7310ms
+2026-02-07 19:17:19.007 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-07 19:17:19.488 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-07 19:17:19.490 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-07 19:17:19.621 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-07 19:17:19.623 +05:30 [INF] Hosting environment: Development
+2026-02-07 19:17:19.625 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-07 19:17:21.126 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-07 19:17:22.426 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 1307.9256ms
+2026-02-07 19:17:50.276 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger - -
+2026-02-07 19:17:50.286 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger - - - 301 - - 9.9291ms
+2026-02-07 19:17:50.304 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-07 19:17:50.564 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 260.1225ms
+2026-02-07 19:17:50.573 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui.css - -
+2026-02-07 19:17:50.574 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui-bundle.js - -
+2026-02-07 19:17:50.576 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/swagger-ui-standalone-preset.js - -
+2026-02-07 19:17:50.578 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-07 19:17:50.580 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-07 19:17:50.687 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 106.8028ms
+2026-02-07 19:17:50.729 +05:30 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-02-07 19:17:50.729 +05:30 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-02-07 19:17:50.737 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 160.3387ms
+2026-02-07 19:17:50.742 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui.css - - - 200 144929 text/css 168.7696ms
+2026-02-07 19:17:50.784 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 206.3265ms
+2026-02-07 19:17:50.798 +05:30 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-02-07 19:17:50.802 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 228.0630ms
+2026-02-07 19:17:51.347 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-07 19:17:51.360 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 13.4264ms
+2026-02-07 19:17:51.520 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/favicon-32x32.png - -
+2026-02-07 19:17:51.523 +05:30 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-02-07 19:17:51.526 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/favicon-32x32.png - - - 200 628 image/png 5.8900ms
+2026-02-07 19:27:19.895 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-07 19:27:20.479 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-07 19:27:20.482 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-07 19:27:20.693 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-07 19:27:20.696 +05:30 [INF] Hosting environment: Development
+2026-02-07 19:27:20.698 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-07 19:27:21.867 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-07 19:27:22.469 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 614.3700ms
+2026-02-07 19:28:07.375 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-07 19:28:07.501 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-07 19:28:07.504 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 127.7311ms
+2026-02-07 19:28:07.506 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-07 19:28:07.531 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 24.7338ms
+2026-02-07 19:28:07.593 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 91.6970ms
+2026-02-07 19:28:07.712 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-07 19:28:07.729 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 16.9680ms
+2026-02-07 19:46:08.006 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:46:08.455 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:46:08.476 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:46:08.488 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:46:08.490 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 486.9595ms
+2026-02-07 19:47:12.051 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:47:12.067 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:47:12.073 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:47:12.076 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:47:12.078 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 32.8575ms
+2026-02-07 19:47:57.221 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:47:57.240 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:47:57.245 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:47:57.248 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:47:57.250 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 33.5753ms
+2026-02-07 19:48:59.425 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:48:59.653 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '06-02-2026 07:56:29', Current time: '07-02-2026 14:18:59'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+2026-02-07 19:48:59.711 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '06-02-2026 07:56:29', Current time: '07-02-2026 14:18:59'.
+2026-02-07 19:48:59.713 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:48:59.715 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:48:59.716 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 290.9250ms
+2026-02-07 19:49:39.872 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:49:39.884 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:49:39.885 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:49:39.887 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:49:39.889 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 22.2850ms
+2026-02-07 19:50:44.517 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 100
+2026-02-07 19:50:44.527 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:50:44.529 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:50:44.531 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:50:44.533 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 100 - 401 0 - 15.8167ms
+2026-02-07 19:54:22.102 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 96
+2026-02-07 19:54:22.114 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:54:22.115 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:54:22.117 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:54:22.118 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 96 - 401 0 - 16.8296ms
+2026-02-07 19:58:07.952 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 95
+2026-02-07 19:58:07.962 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 19:58:07.964 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 19:58:07.966 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 19:58:07.970 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 95 - 401 0 - 15.6875ms
+2026-02-07 19:58:29.655 +05:30 [INF] User profile is available. Using 'C:\Users\Vaniadvika\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-02-07 19:58:30.230 +05:30 [INF] Now listening on: https://localhost:54438
+2026-02-07 19:58:30.232 +05:30 [INF] Now listening on: http://localhost:54439
+2026-02-07 19:58:30.431 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-02-07 19:58:30.433 +05:30 [INF] Hosting environment: Development
+2026-02-07 19:58:30.435 +05:30 [INF] Content root path: D:\CTS_TEST\LibraryBookReservationSystem_FINAL_WithAllFiles\BookService
+2026-02-07 19:58:31.601 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/ - -
+2026-02-07 19:58:32.247 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/ - - - 404 - - 646.5773ms
+2026-02-07 19:59:03.692 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/index.html - -
+2026-02-07 19:59:03.810 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/index.html - - - 200 - text/html;charset=utf-8 119.9761ms
+2026-02-07 19:59:03.813 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - -
+2026-02-07 19:59:03.828 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_framework/aspnetcore-browser-refresh.js - - - 200 16507 application/javascript;+charset=utf-8 14.4920ms
+2026-02-07 19:59:03.829 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/_vs/browserLink - -
+2026-02-07 19:59:03.890 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 60.3955ms
+2026-02-07 19:59:04.014 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - -
+2026-02-07 19:59:04.028 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 14.4506ms
+2026-02-07 20:00:16.739 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 93
+2026-02-07 20:00:16.773 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 20:00:16.784 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 20:00:16.793 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 20:00:16.794 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 93 - 401 0 - 55.4745ms
+2026-02-07 20:05:33.018 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 82
+2026-02-07 20:05:33.028 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 20:05:33.032 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 20:05:33.034 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 20:05:33.036 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 82 - 401 0 - 18.1525ms
+2026-02-07 20:08:33.641 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 82
+2026-02-07 20:08:33.655 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 20:08:33.658 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 20:08:33.662 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 82 - 401 0 - 22.4138ms
+2026-02-07 20:11:35.278 +05:30 [INF] Request starting HTTP/2 POST https://localhost:54438/api/books application/json 82
+2026-02-07 20:11:35.287 +05:30 [INF] Bearer was not authenticated. Failure message: No SecurityTokenValidator available for token.
+2026-02-07 20:11:35.289 +05:30 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Admin)
+2026-02-07 20:11:35.291 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2026-02-07 20:11:35.293 +05:30 [INF] Request finished HTTP/2 POST https://localhost:54438/api/books application/json 82 - 401 0 - 14.7211ms
+2026-02-07 20:12:00.859 +05:30 [INF] Request starting HTTP/2 GET https://localhost:54438/.well-known/appspecific/com.chrome.devtools.json - -
+2026-02-07 20:12:00.867 +05:30 [INF] Request finished HTTP/2 GET https://localhost:54438/.well-known/appspecific/com.chrome.devtools.json - - - 404 0 - 7.5568ms
+2026-02-07 20:29:30.735 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82
+2026-02-07 20:29:30.884 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82 - 404 0 - 149.4687ms
+2026-02-07 20:31:26.404 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82
+2026-02-07 20:31:26.407 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82 - 404 0 - 3.2747ms
+2026-02-07 20:32:40.879 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82
+2026-02-07 20:32:40.882 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82 - 404 0 - 2.7328ms
+2026-02-07 20:33:10.673 +05:30 [INF] Request starting HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82
+2026-02-07 20:33:11.149 +05:30 [INF] Request finished HTTP/1.1 POST https://localhost:54438/api/books
+ application/json 82 - 404 0 - 475.3596ms
